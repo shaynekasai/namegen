@@ -2,7 +2,7 @@
 
 // Initializers
 var sqlite3 = require('sqlite3').verbose();
-var db = new sqlite3.Database('./namegen.db');
+var db = new sqlite3.Database('./namegen.db', sqlite3.OPEN_READONLY);
 
 
 // Public API
