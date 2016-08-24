@@ -1,0 +1,19 @@
+{
+  "name": "namegen",
+  "version": "0.1.0",
+  "description": "SQLite random name generator based on US census data",
+  "main": "index.js",
+  "dependencies": {
+    "nopt": "~3.0.6",
+    "npmlog": "~4.0.0",
+    "semver": "~5.3.0",
+    "sqlite3": "~3.1.4",
+    "rimraf": "~2.5.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shayne Kasai",
+  "license": "MIT"
+}
