@@ -14,9 +14,13 @@ namegen.findRandomFemaleName(function(err, result) {
 # Available methods
 
 findRandomSurname(callback)
+---
 findRandomMaleName(callback)
+---
 findRandomFemaleName(callback)
+---
 findRandomMaleForename(callback)
+---
 findRandomFemaleForename(callback)
 
 `callback` gets called with two parameters: err, and result
