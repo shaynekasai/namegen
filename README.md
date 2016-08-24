@@ -1,6 +1,6 @@
 # Namegen
 
-This is a Node.js module that allows you to generate a random name.
+This is a Node.js module that allows you to generate a random name using US census data and SQLite.
 
 # Usage
 
