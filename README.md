@@ -1,5 +1,7 @@
 # Namegen
 
+[![Build Status](https://travis-ci.org/shaynekasai/namegen.svg?branch=master)](https://travis-ci.org/shaynekasai/namegen)
+
 This is a Node.js module that allows you to generate a random name using US census data and SQLite.
 
 # Usage
