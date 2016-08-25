@@ -11,9 +11,21 @@
     "sqlite3": "~3.1.4",
     "tape": "^4.6.0"
   },
+  "keywords": [
+    "nlg",
+    "forename",
+    "natural",
+    "language",
+    "surname",
+    "lastname"
+  ],
   "devDependencies": {},
   "scripts": {
     "test": "tape tests/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shaynekasai/namgen"
   },
   "author": "Shayne Kasai",
   "license": "MIT"
